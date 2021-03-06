@@ -1,2 +1,8 @@
 # Project exclude paths
+<<<<<<< HEAD
 /.gradle/
+=======
+##/.gradle/
+.idea
+.gradle
+>>>>>>> 92769ae (Initial commit)
